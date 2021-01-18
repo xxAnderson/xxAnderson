@@ -2,7 +2,7 @@
 I´m software who love new challenges & OpenSource contributions. My goal is to bring Science, Technology & the God's love word all over the world.  
 - :computer: I’m currently working on Data Science for Marketing + Drop Shipping & HealthTech - :chart_with_upwards_trend: I’m constantly learning & improving my skills (data science, virtual reality and full stack develoer (mobile+web)) - :moneybag: I’m looking for Data challenges to collaborate to world growth  
 *Connect with me:*  
-<a href="https://www.https://www.linkedin.com/in/anderson-pereira-05a770203/" target="_blank">   <img align="left" width="22px" src="https://raw.githubusercontent.com/TonGarcia/TonGarcia/a90787c330a000 ada45a386828d54eb86ed78d7f/linkedin.svg" style="max-width:100%;"> </a>  
+<a href="https://www.linkedin.com/in/anderson-pereira-05a770203/" target="_blank">   <img align="left" width="22px" src="https://raw.githubusercontent.com/TonGarcia/TonGarcia/a90787c330a000 ada45a386828d54eb86ed78d7f/linkedin.svg" style="max-width:100%;"> </a>  
 src="https://github.com/TonGarcia/TonGarcia/blob/main/youtubesm.png?raw=true" style="max-width:100%;"> </a>  
 <br> <br>  
 *Languages & Tools*:  
