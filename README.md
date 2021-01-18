@@ -18,7 +18,7 @@ src="https://github.com/TonGarcia/TonGarcia/blob/main/youtubesm.png?raw=true" st
 <p></p>  
 <img align="left" width="120px" src="https://github.com/TonGarcia/TonGarcia/blob/main/docker.png?raw=true" style="max-width:100%;"> <img align="left" width="180px" src="https://github.com/TonGarcia/TonGarcia/blob/main/kubernetes.png?raw= true" style="max-width:100%;"> <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/github.png?raw=true" style="max-width:100%;"> <img align="left" width="70px" src="https://github.com/TonGarcia/TonGarcia/blob/main/git.png?raw=true" style="max-width:100%;">  
 <br> <hr>   
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readmestats.vercel.app/api/?username=xxAnderson&theme=dracula" datacanonical-src="https://github-readmestats.vercel.app/api?username=xxAnderson&amp;show_icons=true&amp;hid e_border=true" style="max-width:100%;">   
+<img align="left" alt="Anderson Pereira Github Stats" src="https://github-readmestats.vercel.app/api/?username=xxAnderson&theme=dracula" datacanonical-src="https://github-readmestats.vercel.app/api?username=xxAnderson&amp;show_icons=true&amp;hid e_border=true" style="max-width:100%;">   
 <!-- *xxAnderson /xxAnderson* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 Here are some ideas to get you started:  
 -   I’m currently working on ...
